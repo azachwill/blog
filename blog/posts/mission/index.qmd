@@ -1,0 +1,22 @@
+---
+title: "Mission"
+description: "mission statement"
+author: "Andrew Williams"
+date: "12/29/2022"
+---
+
+## Mission
+The mission of the blog.
+
+A Web professional with a varied and diverse background:
+More than 7 years experience designing, developing and managing Web sites with fiscal soundness
+
+Excellent communication, analytical and problem solving skills
+
+Proven documentation and writing abilities
+
+Adept at project requirements gathering, vendor selection, project staffing and management of project life-cycle
+
+Successful management of sites redesign, improving content management, navigation architecture and usability to result in increased page impressions
+
+Strong user interaction and quality assurance practices and techniques
