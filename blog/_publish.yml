@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: a9ec981e-57fa-4b27-a32b-5d4447ef7b17
+      url: 'https://superb-syrniki-a382f7.netlify.app'
