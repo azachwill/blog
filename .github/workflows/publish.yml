@@ -19,5 +19,5 @@ jobs:
         uses: quarto-dev/quarto-actions/publish@v2
         with:
           target: netlify
-          path: /blog
+          path: blog/_site
           NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
