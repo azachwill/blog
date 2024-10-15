@@ -1,0 +1,9 @@
+[dev]
+  targetPort = 1314
+  port = 8888
+  command = "quarto preview"
+  publish = "_site"
+  
+[[edge_functions]]
+function = "hello"
+path = "/hello"
