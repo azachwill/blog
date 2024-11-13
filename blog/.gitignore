@@ -1,1 +1,8 @@
 /.quarto/
+/_publish.yml
+.cache
+.quarto/
+.DS_Store
+_publish.yml
+profile.jpg
+/posts/
