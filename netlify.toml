@@ -4,6 +4,3 @@
   command = "quarto preview"
   publish = "_site"
   
-[[edge_functions]]
-function = "hello"
-path = "/hello"
