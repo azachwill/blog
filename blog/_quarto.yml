@@ -3,7 +3,6 @@ project:
 website:
   title: "blog"
   site-url: "https://charming-souffle-80cbc8.netlify.app"
-  site-path: "/"
   cookie-consent:
     type: express
     style: headline
